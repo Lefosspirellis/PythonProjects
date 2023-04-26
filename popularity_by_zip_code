@@ -1,0 +1,14 @@
+    zip_code            item_description  bottles_sold
+0    50010.0    Member's Mark Spiced Rum           288
+1    50022.0        Paramount Triple Sec             4
+2    50111.0  Saints N Sinners Apple Pie           108
+3    50131.0           Platinum 7x Vodka            48
+4    50158.0                 Hennessy VS            24
+..       ...                         ...           ...
+67   52627.0       Kapali Coffee Liqueur            36
+68   52732.0          Paramount Gold Rum            24
+69   52761.0          Dekuyper Peachtree             4
+70   52803.0           Everclear Alcohol             3
+71   52804.0                Martell VSSD             2
+
+[72 rows x 3 columns]
